@@ -1,25 +1,15 @@
-## Data Analytics at ANZ
+# Data@ANZ Program
 
-Repository for all the work and reports included in "Data Analytics" track provided by ANZ.
-About
+This repository contains the submitted files of the various tasks assigned by Data@ANZ Program Virtual Internship
 
-This program is about learning predictive analytics of banking data provided by ANZ.
+## Website Link:
 
-### Task 1: Exploratory Data Analysis
+[Link](https://www.insidesherpa.com/virtual-internships/prototype/ZLJCsrpkHo9pZBJNY/Data%40ANZ%20Program)
 
-    Goal: Excecute data segmentation and visualization.
-    Update: Visualization of datapoints done with Matplotlib, Seaborn, Plotly 
+## My Certificate of Completion 
 
-### Task 2: Predictive Analytics
+![](https://github.com/bibekuchiha/-ANZ-Data-ANZ-Program/blob/master/Certificate/Screenshot.png)
 
-    Goal: Build a regression and decision-tree prediction model.
-    Update: Built for supervised and unsupervised models
+## For any queries/doubts:
 
-### Results
-
-    Task 1: Report for Exploratory Data Analysis
-    Task 2: Report for Predictive Analytics
-
-### Note
-
-My goal for this "virtual internship" project is to refine my data analysis skills and improve my insight gathering abilities.
+:envelope: davidshahshankhar@gmail.com :thumbsup:
